@@ -142,16 +142,17 @@ a:focus {
 }
 
 .brand-heading {
-    font-size: 60px;
+    font-size: 72px;
 	font-family: "flood-std",sans-serif;
 	font-style: normal;
 	font-weight: 400;
 }
 
 .intro-text {
-    font-size: 18px;
-	font-family: "myriad-pro",sans-serif;
-	font-style: normal;
+    font-size: 24px;
+	font-family: "calluna",serif;
+	font-style: italic;
+	font-weight: 600;
 
 }
 
@@ -162,16 +163,17 @@ a:focus {
     }
 
     .brand-heading {
-        font-size: 60px;
+        font-size: 72x;
 		font-family: "flood-std",sans-serif;
 		font-style: normal;
 		font-weight: 400;
     }
 
     .intro-text {
-        font-size: 25px;
-		font-family: "myriad-pro",sans-serif;
-		font-style: normal;
+        font-size: 24px;
+		font-family: "calluna",serif;
+		font-style: italic;
+		font-weight: 600;
 
     }
 }
