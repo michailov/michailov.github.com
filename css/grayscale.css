@@ -147,7 +147,8 @@ a:focus {
 
 .intro-text {
     font-size: 18px;
-	font-family:calluna;
+	font-family:"myriad pro";
+		font-weight:semi-bold;
 }
 
 @media(min-width:767px) {
@@ -162,7 +163,8 @@ a:focus {
 
     .intro-text {
         font-size: 25px;
-		font-family:calluna;
+		font-family:"myriad pro";
+		font-weight:semi-bold;
     }
 }
 
