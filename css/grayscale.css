@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 35px;
+    margin: 0 0 20px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -137,12 +137,12 @@ a:focus {
 
 .intro-body {
     display: table-cell;
-	padding-top: 0px;
+	padding-top: 30px;
     vertical-align: middle;
 }
 
 .brand-heading {
-    font-size: 72px;
+    font-size: 64px;
 	font-family: "flood-std",sans-serif;
 	font-style: normal;
 	font-weight: 400;
@@ -163,7 +163,7 @@ a:focus {
     }
 
     .brand-heading {
-        font-size: 72x;
+        font-size: 64x;
 		font-family: "flood-std",sans-serif;
 		font-style: normal;
 		font-weight: 400;
