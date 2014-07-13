@@ -147,8 +147,9 @@ a:focus {
 
 .intro-text {
     font-size: 18px;
-	font-family:"myriad pro";
-		font-weight:semi-bold;
+	font-family: "myriad-pro",sans-serif;
+	font-style: normal;
+	font-weight: 700;
 }
 
 @media(min-width:767px) {
@@ -163,8 +164,9 @@ a:focus {
 
     .intro-text {
         font-size: 25px;
-		font-family:"myriad pro";
-		font-weight:semi-bold;
+		font-family: "myriad-pro",sans-serif;
+		font-style: normal;
+		font-weight: 700;
     }
 }
 
