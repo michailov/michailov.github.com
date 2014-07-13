@@ -143,6 +143,7 @@ a:focus {
 
 .brand-heading {
     font-size: 40px;
+	
 }
 
 .intro-text {
@@ -160,6 +161,9 @@ a:focus {
 
     .brand-heading {
         font-size: 55px;
+		font-family: "flood-std",sans-serif;
+		font-style: normal;
+		font-weight: 400;
     }
 
     .intro-text {
